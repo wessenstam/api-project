@@ -1,2 +1,2 @@
 # api-project
- Script for teh API Project
+ Script for Joan's API Project
